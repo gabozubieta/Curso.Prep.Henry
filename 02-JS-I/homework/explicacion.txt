@@ -1,0 +1,18 @@
+
+    Variables
+    Sirven para contener datos en forma temmporal para realizar calculos
+
+    Strings
+    Es un tipo de variable para manejar textos, concatenarlos, armar textos para mostrar a los usuarios.
+
+    Funciones
+    Sirven para encapsular comportamientos de la aplicacion , se le pasan argumentos dentro hace algo y 
+    devuelve alguna variable de cierto tipo con el resultado.
+
+    Declaraciones if
+    Sirven para llevar el flujo de un programa hacia lugares distintos donde tendra comportamientos
+    diferentes.
+
+    Valores booleanos.
+    Se utilizan para darle un comportamiento binario a variables que indiquemos de ese tipo.
+
