@@ -1,0 +1,52 @@
+.pagina {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("fondo_pantalla_claro.jpg");
+    background-size: cover;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background:red;
+    padding: 50px;
+    border-width : 10px;
+    border-style: double;
+    border-color: blue;
+    flex: 1;
+}
+.divClass {
+    flex: 1;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+#textoh1 {
+    color: coral;
+}
+.imagen {
+    width: 400px;
+}
+
+#tituloCV {
+    color: coral;
+    margin-right : 150px;
+}
+.divCV  {
+    margin-left: 70px;
+    margin-right: 70px;
+    flex: 1;
+}
+.paginaCV {
+    display: flex;
+    flex-direction: column;
+    background-image: url("fondo_pantalla_claro.jpg");
+    background-size: cover;
+}
+.textoCV{
+    text-align: justify;
+}
+.parrafoCV {
+    clear: both;
+}
